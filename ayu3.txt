@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> Link in a list </title> </head>
+    <body>
+        <h2>A list with a hyperlink</h2>
+        <ul>
+            <li> This </li>
+            <li> is </li>
+            <li> a </li>
+            <li>Hyperlink inside a list</li>
+            <li> <a href="https://www.codingninjas.com/"> Coding Ninjas </a> </li>
+        </ul>
+    </body>
+</html>
